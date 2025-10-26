@@ -1,19 +1,20 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# React Facts
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This React app is a static site about React! It introduces the basic principles of the library.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Head over to [Vite](https://vitejs.dev/) to learn more about configuring Vite.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Concepts Used
+
+- **JSX** – Writing HTML inside JavaScript  
+- **Components** – Reusable UI pieces  
+- **ReactDOM** – Rendering React components to the DOM  
+- **CSS Styling** – Styling components  
+
+## Requirements / Resources
+
+- [Figma Design File](https://www.figma.com/design/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0-1&p=f)  
+- Custom Components  
+- Styling with Classes  
 
 Happy Coding!
